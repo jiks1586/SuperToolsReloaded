@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "itemxrayhoe",
+    "customModelName": "Normal",
+    "name": "Xray Hoe",
+    "creativeTab": {
+      "value": "CUSTOM:Xraytab"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 3,
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 5.0,
+    "usageCount": 3122,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:XrayIngot"
+      }
+    ]
+  }
+}

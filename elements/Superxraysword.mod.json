@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "itemsuperxraysword",
+    "customModelName": "Normal",
+    "name": "¡ìeSuper Xray Sword",
+    "creativeTab": {
+      "value": "CUSTOM:Xraytab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 19.0,
+    "usageCount": 4683,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Superxraylngot"
+      }
+    ]
+  }
+}

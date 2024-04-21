@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "itemsuperhelmet",
+    "enableBody": true,
+    "textureBody": "itemsuperchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "itemsuperleggings",
+    "enableBoots": true,
+    "textureBoots": "itemsuperboots",
+    "creativeTab": {
+      "value": "CUSTOM:Xraytab"
+    },
+    "armorTextureFile": "super_",
+    "helmetName": "Super Helmet",
+    "bodyName": "Super Chestplate",
+    "leggingsName": "Super Leggings",
+    "bootsName": "Super Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 275,
+    "damageValueHelmet": 5,
+    "damageValueBody": 7,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 5,
+    "enchantability": 10,
+    "toughness": 3.5,
+    "equipSound": {
+      "value": "item.armor.equip_generic"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Superlngot"
+      }
+    ]
+  }
+}

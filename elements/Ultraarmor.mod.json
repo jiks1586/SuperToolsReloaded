@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "itemultrahelmet",
+    "enableBody": true,
+    "textureBody": "itemultrachestplate",
+    "enableLeggings": true,
+    "textureLeggings": "itemultraleggings",
+    "enableBoots": true,
+    "textureBoots": "itemultraboots",
+    "creativeTab": {
+      "value": "CUSTOM:Xraytab"
+    },
+    "armorTextureFile": "ultra_",
+    "helmetName": "Ultra Helmet",
+    "bodyName": "Ultra Chestplate",
+    "leggingsName": "Ultra Leggings",
+    "bootsName": "Ultra Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 350,
+    "damageValueHelmet": 7,
+    "damageValueBody": 9,
+    "damageValueLeggings": 9,
+    "damageValueBoots": 7,
+    "enchantability": 9,
+    "toughness": 4.5,
+    "equipSound": {
+      "value": "item.armor.equip_generic"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ultraingot"
+      }
+    ]
+  }
+}

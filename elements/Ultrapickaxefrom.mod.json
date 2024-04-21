@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Ultraingot"
+      },
+      {
+        "value": "CUSTOM:Superpickaxe"
+      },
+      {
+        "value": "CUSTOM:Ultraingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:XrayIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:XrayIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Ultrapickaxe"
+    },
+    "name": "ultrapickaxe",
+    "namespace": "mod"
+  }
+}

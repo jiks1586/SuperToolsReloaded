@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "itemsuperxrayhoe",
+    "customModelName": "Normal",
+    "name": "Super Xray Hoe",
+    "creativeTab": {
+      "value": "CUSTOM:Xraytab"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 6.0,
+    "usageCount": 4683,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Superxraylngot"
+      }
+    ]
+  }
+}
