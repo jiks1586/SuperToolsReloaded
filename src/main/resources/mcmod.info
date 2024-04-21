@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "stmr",
+    "name": "SuperTools Reloaded",
+    "description": "",
+    "version": "0.9.9",
+    "credits": "CoolCLK7065",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "jiks1586"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

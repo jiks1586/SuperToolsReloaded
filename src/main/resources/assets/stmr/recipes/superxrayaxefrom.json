@@ -1,0 +1,30 @@
+{
+  "group": "stmr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "stmr:superxraylngot"
+    },
+    "1": {
+      "item": "stmr:superxraylngot"
+    },
+    "2": {
+      "item": "stmr:superxraylngot"
+    },
+    "3": {
+      "item": "stmr:xrayaxe"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "stmr:superxrayaxe",
+    "count": 1
+  }
+}

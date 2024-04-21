@@ -1,0 +1,42 @@
+{
+  "group": "stmr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "stmr:superlngot"
+    },
+    "1": {
+      "item": "stmr:superlngot"
+    },
+    "2": {
+      "item": "stmr:superlngot"
+    },
+    "3": {
+      "item": "stmr:superblock"
+    },
+    "4": {
+      "item": "stmr:superblock"
+    },
+    "5": {
+      "item": "stmr:superblock"
+    },
+    "6": {
+      "item": "stmr:superlngot"
+    },
+    "7": {
+      "item": "stmr:superlngot"
+    },
+    "8": {
+      "item": "stmr:superlngot"
+    }
+  },
+  "result": {
+    "item": "stmr:ultraingot",
+    "count": 1
+  }
+}

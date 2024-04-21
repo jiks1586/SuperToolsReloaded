@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stmr:blocks/blocksuperore",
+    "up": "stmr:blocks/blocksuperore",
+    "north": "stmr:blocks/blocksuperore",
+    "east": "stmr:blocks/blocksuperore",
+    "south": "stmr:blocks/blocksuperore",
+    "west": "stmr:blocks/blocksuperore",
+    "particle": "stmr:blocks/blocksuperore"
+  }
+}

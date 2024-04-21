@@ -1,0 +1,16 @@
+{
+  "group": "stmr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "stmr:superblock"
+    }
+  },
+  "result": {
+    "item": "stmr:superlngot",
+    "count": 9
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "stmr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "stmr:ultraingot"
+    },
+    "1": {
+      "item": "stmr:supershovel"
+    },
+    "2": {
+      "item": "stmr:xray_ingot"
+    }
+  },
+  "result": {
+    "item": "stmr:ultrashovel",
+    "count": 1
+  }
+}

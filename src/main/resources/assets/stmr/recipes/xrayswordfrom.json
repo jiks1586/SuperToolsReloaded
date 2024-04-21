@@ -1,0 +1,24 @@
+{
+  "group": "stmr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "stmr:xray_ingot"
+    },
+    "1": {
+      "item": "stmr:xray_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "stmr:xraysword",
+    "count": 1
+  }
+}

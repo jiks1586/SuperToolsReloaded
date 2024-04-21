@@ -1,0 +1,29 @@
+{
+  "group": "stmr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "stmr:superlngot"
+    },
+    "1": {
+      "item": "stmr:superlngot"
+    },
+    "2": {
+      "item": "stmr:superlngot"
+    },
+    "3": {
+      "item": "stmr:superlngot"
+    },
+    "5": {
+      "item": "stmr:superlngot"
+    }
+  },
+  "result": {
+    "item": "stmr:superarmorhelmet",
+    "count": 1
+  }
+}

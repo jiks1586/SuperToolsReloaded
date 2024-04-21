@@ -1,0 +1,32 @@
+{
+  "group": "stmr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "stmr:ultraingot"
+    },
+    "1": {
+      "item": "stmr:ultraingot"
+    },
+    "2": {
+      "item": "stmr:ultraingot"
+    },
+    "3": {
+      "item": "stmr:ultraingot"
+    },
+    "4": {
+      "item": "stmr:superarmorhelmet"
+    },
+    "5": {
+      "item": "stmr:ultraingot"
+    }
+  },
+  "result": {
+    "item": "stmr:ultraarmorhelmet",
+    "count": 1
+  }
+}

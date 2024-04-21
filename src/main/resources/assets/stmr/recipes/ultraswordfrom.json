@@ -1,0 +1,24 @@
+{
+  "group": "stmr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "stmr:ultraingot"
+    },
+    "1": {
+      "item": "stmr:ultraingot"
+    },
+    "2": {
+      "item": "stmr:supersword"
+    }
+  },
+  "result": {
+    "item": "stmr:ultrasword",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "group": "stmr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "stmr:superxraylngot"
+    },
+    "1": {
+      "item": "stmr:superxraylngot"
+    },
+    "2": {
+      "item": "stmr:superxraylngot"
+    },
+    "3": {
+      "item": "stmr:superxraylngot"
+    },
+    "4": {
+      "item": "stmr:xrayarmorhelmet"
+    },
+    "5": {
+      "item": "stmr:superxraylngot"
+    }
+  },
+  "result": {
+    "item": "stmr:super_xray_armorhelmet",
+    "count": 1
+  }
+}

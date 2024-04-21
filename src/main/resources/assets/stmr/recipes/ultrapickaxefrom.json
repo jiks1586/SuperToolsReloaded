@@ -1,0 +1,30 @@
+{
+  "group": "stmr",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "stmr:ultraingot"
+    },
+    "1": {
+      "item": "stmr:superpickaxe"
+    },
+    "2": {
+      "item": "stmr:ultraingot"
+    },
+    "4": {
+      "item": "stmr:xray_ingot"
+    },
+    "7": {
+      "item": "stmr:xray_ingot"
+    }
+  },
+  "result": {
+    "item": "stmr:ultrapickaxe",
+    "count": 1
+  }
+}

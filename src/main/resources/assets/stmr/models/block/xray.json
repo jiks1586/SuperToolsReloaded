@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stmr:blocks/blockxray",
+    "up": "stmr:blocks/blockxray",
+    "north": "stmr:blocks/blockxray",
+    "east": "stmr:blocks/blockxray",
+    "south": "stmr:blocks/blockxray",
+    "west": "stmr:blocks/blockxray",
+    "particle": "stmr:blocks/blockxray"
+  }
+}
